@@ -1,0 +1,15 @@
+.card_container {
+  border: 1px solid black;
+  position: relative;
+}
+
+.delete_button {
+  width: 30px;
+  height: 30px;
+  color: darkred;
+  border-color: darkred;
+  background-color: lightcoral;
+  position: absolute;
+  right: -5px;
+  top: -5px;
+}
