@@ -4,7 +4,7 @@ import './main.css';
 import Nav from './Nav.tsx';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import ProfilePage from './components/task-1/Task1.tsx';
-import { App } from './components/task-2/MainPage.jsx';
+import { App } from './components/task-2/MainPage.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // Если нужны JS-компоненты
 
